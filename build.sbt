@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "org.scalaz" %% "scalaz-core" % "7.1.0",
   "org.scalaz" %% "scalaz-effect" % "7.1.0",
   "org.scalaz" %% "scalaz-concurrent" % "7.1.0",
-  "org.scalaz.stream" %% "scalaz-stream" % "0.6a",
+  "org.scalaz.stream" %% "scalaz-stream" % "0.7a",
   "com.typesafe.akka" %% "akka-stream-experimental" % "0.9",
   "org.scalaz.stream" %% "scalaz-stream" % "0.7a"
 )
